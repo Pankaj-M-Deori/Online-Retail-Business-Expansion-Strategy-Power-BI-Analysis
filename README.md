@@ -35,9 +35,10 @@ The CEO and CMO of the online retail company sought data-driven clarity on how r
   these areas has the potential to boost sales revenues and profitability.
 
 ## Tools and Skills Used
-- Power BI
-- Power Query (For ETL purpose)
-- DAX (For creating Measures, Calculated Tables and Calculated Columns)
-- Data Modelling (Building Relationships between tables, Column Formatting, Managing fields folders and hierarchy)
-- Effective Visualization for Better Storytelling
+- Power BI Desktop (to create executive report).
+- Power BI Service (to deploy and maintain Power BI assets).
+- Power Query (for ETL purpose, to make sure the analysis is based on cleaned and reliable data, free from any errors or missing values).
+- DAX (for creating measures, calculated tables and calculated columns).
+- Data Modelling (creating relationships between tables, column formatting, managing folders and hierarchy).
+- Effective Visualization for Better Storytelling.
 
