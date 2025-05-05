@@ -4,7 +4,7 @@ This Power BI project presents a comprehensive data analysis for an online retai
 
 Commissioned by executive stakeholders (CEO & CMO), this analysis provides actionable insights to:
 
-Identify seasonal sales trends.
+- <a Identify seasonal sales trends.
 
 Explore top-performing countries and customers.
 
