@@ -25,6 +25,19 @@ The CEO and CMO of the online retail company sought data-driven clarity on how r
 
 - Regional Demand Analysis (Excluding UK) to identify markets for future expansion.
 
-## Key Insights
+## Key Insights and Recommendations
 - Line Chart: The revenue was fairly constant for the first 8 months (Jan-Aug), the revenue spiked from the month of September to November, with November showing the highest sales, 
-  indicating strong seasonal influence (Note: The data for December is incomplete, so nothing can be conclude for the month).
+  indicating strong seasonal influence (Note: Unfortunately, the data for December is incomplete, so nothing can be conclude for the month).
+- Bar Chart: Countries such as Netherland, Ireland, Germany, France and Australia shows high revenue and units bought, making them ideal targets for market expansion.
+- Column Chart: The Top 10 customers contribute significant but evenly distributed revenue, which shows that business does not rely solely on few customers to generate revenue. This 
+  shows that the bargaining power of the customers is low and the business is in a good position.
+- Map Visual: Sales are concentrated in Europe and parts of Australia, with very few in American regions. Also, Africa and Asia have no demand for our products. A new strategy targeting 
+  these areas has the potential to boost sales revenues and profitability.
+
+## Tools and Skills Used
+- Power BI
+- Power Query (For ETL purpose)
+- DAX (For creating Measures, Calculated Tables and Calculated Columns)
+- Data Modelling (Building Relationships between tables, Column Formatting, Managing fields folders and hierarchy)
+- Effective Visualization for Better Storytelling
+
