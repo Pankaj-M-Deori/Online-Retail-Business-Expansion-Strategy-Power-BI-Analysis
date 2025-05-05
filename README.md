@@ -18,17 +18,10 @@ The CEO and CMO of the online retail company sought data-driven clarity on how r
 
 ## Business Questions Answered
 - Monthly Revenue Trend (2011) to identify seasonality and inform forecasting for future sales cycles.
-Who asked? CEO
 
-Top Countries by Revenue (Excluding UK)
-Who asked? CMO
-➤ Highlight the top 10 countries by revenue and quantity sold to find international markets with high potential.
+- Top 10 Countries by Revenue and Quantity Sold (Excluding UK) to find international markets with high potential.
 
-Top Customers by Revenue
-Who asked? CMO
-➤ Identify the highest-spending customers to shape loyalty and retention initiatives.
+- Top 10 Customers by Revenue to identify high revenue generating customers and initiate retention strategy.
 
-Regional Demand Analysis (Excluding UK)
-Who asked? CEO
-➤ Visualize global demand using a map to spot underserved markets for future expansion.
+- Regional Demand Analysis (Excluding UK) to identify markets for future expansion.
 
