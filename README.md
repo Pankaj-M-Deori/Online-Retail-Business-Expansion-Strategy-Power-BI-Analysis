@@ -26,4 +26,4 @@ The CEO and CMO of the online retail company sought data-driven clarity on how r
 - Regional Demand Analysis (Excluding UK) to identify markets for future expansion.
 
 ## Key Insights
-- <a "Line Chart">: 
+- <a Line Chart>: 
