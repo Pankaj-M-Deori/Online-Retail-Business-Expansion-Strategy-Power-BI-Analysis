@@ -25,7 +25,7 @@ The CEO and CMO of the online retail company sought data-driven clarity on how r
 
 - Regional Demand Analysis (Excluding UK) to identify markets for future expansion.
 
-## Key Insights and Recommendations
+## Key Insights
 - Line Chart: The revenue was fairly constant for the first 8 months (Jan-Aug), the revenue spiked from the month of September to November, with November showing the highest sales, 
   indicating strong seasonal influence (Note: Unfortunately, the data for December is incomplete, so nothing can be conclude for the month).
 - Bar Chart: Countries such as Netherland, Ireland, Germany, France and Australia shows high revenue and units bought, making them ideal targets for market expansion.
