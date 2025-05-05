@@ -14,3 +14,4 @@ Visualize regional demand to guide market expansion.
 The CEO and CMO of the online retail company sought data-driven clarity on how revenue is generated and what factors influence performance. This report supports strategic expansion decisions by answering key business questions using advanced data modeling and interactive visuals in Power BI.
 
 ## Dataset Used
+- <a href="https://github.com/Pankaj-M-Deori/Online-Retail-Business-Expansion-Strategy-Power-BI-Analysis/blob/main/Online%20Retail.xlsx">Dataset</a>
