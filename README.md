@@ -59,6 +59,6 @@ This project highlights more than just Power BI skills. It also shows that I can
 
 - Tell a clear story using data through easy-to-understand visuals.
 
-- Handle the full process — from cleaning data to sharing useful insights and recommendations.
+- Handle the full process, from cleaning data to sharing useful insights and recommendations.
 
 
