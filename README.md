@@ -31,6 +31,14 @@ The CEO and CMO of the online retail company sought data-driven clarity on how r
 - Map Visual: Sales are concentrated in Europe and parts of Australia, with very few in American regions. Also, Africa and Asia have no demand for our products. A new strategy targeting 
   these areas has the potential to boost sales revenues and profitability.
 
+## Recommendations
+- Focus marketing and inventory efforts from September to November, where sales historically surge. Plan major promotions and product launches around this window.
+- Target Netherlands, Ireland, Germany, France and Australia for expansion. These markets already show strong demand and can deliver faster ROI with localized marketing and logistics 
+  improvements.
+- Since revenue is well distributed among top customers, consider offering rewards or loyalty programs that make them feel valued, to increase repeat purchases and build long-term 
+  relationships.
+- Current sales are concentrated in Europe and Australia. Develop small test campaigns in regions like American regions, Asia and Africa, to explore new customer segments.
+
 ## Tools and Skills Used
 - Power BI Desktop: To create executive report.
 - Power BI Service: To deploy and maintain Power BI assets.
@@ -44,3 +52,14 @@ The CEO and CMO of the online retail company sought data-driven clarity on how r
 - Show Report: <a href="https://app.powerbi.com/links/UL24lUeiRd?ctid=7f2cea9c-d8e4-4c74-a024-cb436d9ecfd5&pbi_source=linkShare">Online Retail Report
 - Report Layout (PDF): <a href="https://github.com/Pankaj-M-Deori/Online-Retail-Business-Expansion-Strategy-Power-BI-Analysis/blob/main/Online%20Retail.pdf">Report Layout
 - Text File with Project Requirements: <a href="https://github.com/Pankaj-M-Deori/Online-Retail-Business-Expansion-Strategy-Power-BI-Analysis/blob/main/Project%20Requirements.txt">Project Requirements
+
+## Why This Project Matters ?
+- This project highlights more than just Power BI skills. It also shows that I can:
+
+- Understand what business leaders care about and focus on their goals.
+
+- Tell a clear story using data through easy-to-understand visuals.
+
+- Handle the full process — from cleaning data to sharing useful insights and recommendations.
+
+
