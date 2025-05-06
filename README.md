@@ -11,7 +11,7 @@ Commissioned by executive stakeholders (CEO & CMO), this analysis provides actio
 - Visualize regional demand to guide market expansion.
 
 ## Project Objective
-The CEO and CMO of the online retail company sought data-driven clarity on how revenue is generated and what factors influence performance. This report supports strategic expansion decisions by answering key business questions using advanced data modeling and interactive visuals in Power BI.
+The CEO and CMO of the online retail company sought data-driven insights on how revenue is generated and what factors influence performance. This report supports strategic expansion decisions by answering key business questions using advanced data modeling and interactive visuals in Power BI.
 
 ## Business Questions Answered
 - Monthly Revenue Trend (2011) to identify seasonality and inform forecasting for future sales cycles.
