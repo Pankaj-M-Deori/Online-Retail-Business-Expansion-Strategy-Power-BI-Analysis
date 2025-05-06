@@ -51,7 +51,6 @@ The CEO and CMO of the online retail company sought data-driven clarity on how r
 - Dataset Used: <a href="https://github.com/Pankaj-M-Deori/Online-Retail-Business-Expansion-Strategy-Power-BI-Analysis/blob/main/Online%20Retail.xlsx">Online Retail Dataset
 - Show Report: <a href="https://app.powerbi.com/links/UL24lUeiRd?ctid=7f2cea9c-d8e4-4c74-a024-cb436d9ecfd5&pbi_source=linkShare">Online Retail Report
 - Report Layout (PDF): <a href="https://github.com/Pankaj-M-Deori/Online-Retail-Business-Expansion-Strategy-Power-BI-Analysis/blob/main/Online%20Retail.pdf">Report Layout
-- Text File with Project Requirements: <a href="https://github.com/Pankaj-M-Deori/Online-Retail-Business-Expansion-Strategy-Power-BI-Analysis/blob/main/Project%20Requirements.txt">Project Requirements
 
 ## Why This Project Matters ?
 This project highlights more than just Power BI skills. It also shows that I can:
