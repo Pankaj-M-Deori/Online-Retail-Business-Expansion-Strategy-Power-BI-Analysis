@@ -39,5 +39,6 @@ The CEO and CMO of the online retail company sought data-driven clarity on how r
 - Data Modelling: To create relationships between tables, column formatting, managing folders and hierarchy.
 - Effective Visualization: For better storytelling.
 
-## Files Included
+## Files and Links Included
 - Dataset Used: <a href="https://github.com/Pankaj-M-Deori/Online-Retail-Business-Expansion-Strategy-Power-BI-Analysis/blob/main/Online%20Retail.xlsx">Online Retail Dataset
+- Show Report in Power BI Service: <a href="https://app.powerbi.com/links/UL24lUeiRd?ctid=7f2cea9c-d8e4-4c74-a024-cb436d9ecfd5&pbi_source=linkShare">Online Retail Report
