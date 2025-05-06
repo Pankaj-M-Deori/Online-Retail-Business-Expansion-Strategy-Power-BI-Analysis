@@ -26,8 +26,7 @@ The CEO and CMO of the online retail company sought data-driven insights on how 
 
 ## Key Insights
 - Line Chart: The revenue was fairly constant for the first 8 months (Jan-Aug), the revenue spiked from the month of September to November, with November showing the highest sales, indicating strong seasonal influence.
-
-(Note: Unfortunately, the data for December is incomplete, so nothing conclusive can be said for the month).
+  (Note: Unfortunately, the data for December is incomplete, so nothing conclusive can be said for the month).
 - Bar Chart: Countries such as Netherland, Ireland, Germany, France and Australia shows high revenue and units bought, which makes them strong targets for market expansion.
 - Column Chart: The Top 10 customers contribute significant but evenly distributed revenue, which shows that business does not rely solely on few customers to generate revenue. This 
   shows that the bargaining power of the customers is low and the business is in a good position.
