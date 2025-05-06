@@ -10,6 +10,8 @@ Commissioned by executive stakeholders (CEO & CMO), this analysis provides actio
 
 - Visualize regional demand to guide market expansion.
 
+(Note: This project was completed as part of the Tata Group (TCS) Job Simulation Program, in which I actively participated). 
+
 ## Project Objective
 The CEO and CMO of the online retail company sought data-driven insights on how revenue is generated and what factors influence performance. This report supports strategic expansion decisions by answering key business questions using advanced data modeling and interactive visuals in Power BI.
 
