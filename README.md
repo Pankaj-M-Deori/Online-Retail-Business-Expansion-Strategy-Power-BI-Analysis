@@ -1,6 +1,6 @@
 # Online-Retail-Business-Expansion-Strategy (Executive Report)
 ## Overview
-This Power BI project presents a comprehensive data analysis for an online retail business aimed at supporting executive-level decision-making, particularly around global expansion strategy, revenue trends, and customer segmentation.
+This Power BI project provides executives with strategic insights to support global market expansion, uncover top-performing regions and identify revenue-driving customer segments. 
 
 Commissioned by executive stakeholders (CEO & CMO), this analysis provides actionable insights to:
 
@@ -25,9 +25,9 @@ The CEO and CMO of the online retail company sought data-driven insights on how 
 - Regional Demand Analysis (Excluding UK) to identify markets for future expansion.
 
 ## Key Insights
-- Line Chart: The revenue was fairly constant for the first 8 months (Jan-Aug), the revenue spiked from the month of September to November, with November showing the highest sales, 
-  indicating strong seasonal influence (Note: Unfortunately, the data for December is incomplete, so nothing can be conclude for the month).
-- Bar Chart: Countries such as Netherland, Ireland, Germany, France and Australia shows high revenue and units bought, making them ideal targets for market expansion.
+- Line Chart: The revenue was fairly constant for the first 8 months (Jan-Aug), the revenue spiked from the month of September to November, with November showing the highest sales, indicating strong seasonal influence.
+(Note: Unfortunately, the data for December is incomplete, so nothing conclusive can be said for the month).
+- Bar Chart: Countries such as Netherland, Ireland, Germany, France and Australia shows high revenue and units bought, which makes them strong targets for market expansion.
 - Column Chart: The Top 10 customers contribute significant but evenly distributed revenue, which shows that business does not rely solely on few customers to generate revenue. This 
   shows that the bargaining power of the customers is low and the business is in a good position.
 - Map Visual: Sales are concentrated in Europe and parts of Australia, with very few in American regions. Also, Africa and Asia have no demand for our products. A new strategy targeting 
