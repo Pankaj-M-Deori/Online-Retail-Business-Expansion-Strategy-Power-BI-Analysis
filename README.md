@@ -54,7 +54,7 @@ The CEO and CMO of the online retail company sought data-driven clarity on how r
 - Text File with Project Requirements: <a href="https://github.com/Pankaj-M-Deori/Online-Retail-Business-Expansion-Strategy-Power-BI-Analysis/blob/main/Project%20Requirements.txt">Project Requirements
 
 ## Why This Project Matters ?
-- This project highlights more than just Power BI skills. It also shows that I can:
+This project highlights more than just Power BI skills. It also shows that I can:
 
 - Understand what business leaders care about and focus on their goals.
 
